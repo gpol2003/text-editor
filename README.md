@@ -1,10 +1,9 @@
 # Text Editor
 ## Table of Contents
-- [Text Editor](#text-editor)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Example](#example)
   - [Contact](#contact)
 ## Overview 
 This c program simulates a text editor with an integrated clipboard manager which can handle the following operations:
@@ -30,6 +29,7 @@ git clone https://github.com/gpol2003/text-editor.git
 
 To compile main.c and the queue module:
 ```bash
+cd c-project
 make
 ```
 
@@ -42,7 +42,17 @@ To execute editor program with Valgrind memory error detector:
 ```bash
 make check
 ```
+
+## Example
+```bash
+make test
+Input: "TYPE We hate pointers", "MOVE_CURSOR -3", "SELECT 3", "TYPE love"
+Output: We love pointers
+Input: "EXIT"
+Leaving text editor...
+```
+
 ## Contact
-Pol Guarch Bosom - guarchp@gmail.com
+Pol Guarch Bosom - guarchp@gmail.com - www.linkedin.com/in/pol-guarch
 
 Project Link: https://github.com/gpol2003/text-editor.git
