@@ -507,10 +507,13 @@ int main(){
 
         // Process operations from the queue
         end = makeOperations(&queue, &editor);
+
+        // Print the final output
+        printf("Output: %s\n", editor.text);
     }while(!end);
 
     // Print the final output
-    printf("Output: %s\n", editor.text);
+    printf("Leaving text editor...\n");
 
     // Free memory used by the editor and queue
     freeEditor(&editor);
