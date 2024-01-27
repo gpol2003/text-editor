@@ -42,6 +42,6 @@ To execute editor program with Valgrind memory error detector:
 make check
 ```
 ## Contact
-Pol Guarch Bosom - guarchp@gmail.com
+Pol Guarch Bosom - guarchp@gmail.com - www.linkedin.com/in/pol-guarch
 
 Project Link: https://github.com/gpol2003/text-editor.git
