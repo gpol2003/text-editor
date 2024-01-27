@@ -3,6 +3,7 @@
   - [Overview](#overview)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Example](#example)
   - [Contact](#contact)
 ## Overview 
 This c program simulates a text editor with an integrated clipboard manager which can handle the following operations:
@@ -41,6 +42,15 @@ To execute editor program with Valgrind memory error detector:
 ```bash
 make check
 ```
+
+## Example
+```bash
+make test
+Input: "TYPE We hate pointers", "MOVE_CURSOR -3", "SELECT 3", "TYPE love"
+Input: "EXIT" 
+Output: We love pointers
+```
+
 ## Contact
 Pol Guarch Bosom - guarchp@gmail.com - www.linkedin.com/in/pol-guarch
 
