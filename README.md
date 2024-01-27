@@ -46,7 +46,7 @@ make check
 ## Example
 ```bash
 make test
-Input: "TYPE We hate pointers", "MOVE_CURSOR -3", "SELECT 3", "TYPE love"
+Input: "TYPE We hate pointers", "MOVE_CURSOR -3", "SELECT 3 6", "TYPE love"
 Output: We love pointers
 Input: "EXIT"
 Leaving text editor...
