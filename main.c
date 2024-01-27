@@ -1,3 +1,14 @@
+/**
+ * @file main.c
+ *
+ * @brief Implementation of a command line based text editor
+ *
+ * @date 25/1/2024
+ * @last_update 27/1/2024
+ * @author Pol Guarch Bosom
+ *
+*/
+
 // Include necessary standard C libraries
 #include <stdio.h>
 #include <string.h>

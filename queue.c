@@ -1,3 +1,14 @@
+/**
+ * @file main.c
+ *
+ * @brief Custom implementation of queue (FIFO)
+ *
+ * @date 25/1/2024
+ * @last_update 25/1/2024
+ * @author Pol Guarch Bosom
+ *
+*/
+
 #include "queue.h"
 
 /**
