@@ -30,6 +30,7 @@ git clone https://github.com/gpol2003/text-editor.git
 
 To compile main.c and the queue module:
 ```bash
+cd c-project
 make
 ```
 
