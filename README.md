@@ -1,7 +1,5 @@
 # Text Editor
 ## Table of Contents
-- [Text Editor](#text-editor)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Installation](#installation)
   - [Usage](#usage)
