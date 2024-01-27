@@ -454,6 +454,8 @@ int makeOperations(Queue* queue, Editor* editor){
                 return 1;
         }
     }
+    // Print the final output
+    printf("Output: %s\n", editor->text);
     return 0;
 
 }
@@ -507,9 +509,6 @@ int main(){
 
         // Process operations from the queue
         end = makeOperations(&queue, &editor);
-
-        // Print the final output
-        printf("Output: %s\n", editor.text);
     }while(!end);
 
     // Print the final output
