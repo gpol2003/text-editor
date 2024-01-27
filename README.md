@@ -47,8 +47,9 @@ make check
 ```bash
 make test
 Input: "TYPE We hate pointers", "MOVE_CURSOR -3", "SELECT 3", "TYPE love"
-Input: "EXIT" 
 Output: We love pointers
+Input: "EXIT"
+Leaving text editor...
 ```
 
 ## Contact
