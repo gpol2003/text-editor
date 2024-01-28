@@ -46,6 +46,7 @@ To execute editor program with Valgrind memory error detector:
 make check
 ```
 ### go
+To compile and execute main.go
 ```bash
 cd go-project
 go run main.go
