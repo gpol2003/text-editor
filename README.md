@@ -61,9 +61,9 @@ Leaving text editor...
 ```
 
 ## Contact
-Pol Guarch Bosom - guarchp@gmail.com - [www.linkedin.com/in/pol-guarch](www.linkedin.com/in/pol-guarch)
+Pol Guarch Bosom - guarchp@gmail.com - https://www.linkedin.com/in/pol-guarch/
 
-Project Link: [https://github.com/gpol2003/text-editor.git](https://github.com/gpol2003/text-editor.git)
+Project Link: https://github.com/gpol2003/text-editor.git
 
 ## Acknowledgments
 - [Go First Steps (video)](https://www.youtube.com/watch?v=AGiayASyp2Q)
