@@ -5,6 +5,8 @@
   - [Usage](#usage)
   - [Example](#example)
   - [Contact](#contact)
+  - [Acknowledgments](#acknowledgments)
+
 ## Overview 
 This c program simulates a text editor with an integrated clipboard manager which can handle the following operations:
 - TYPE <text>
