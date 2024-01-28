@@ -27,6 +27,7 @@ git clone https://github.com/gpol2003/text-editor.git
 
 ## Usage
 
+### c
 To compile main.c and the queue module:
 ```bash
 cd c-project
@@ -42,10 +43,14 @@ To execute editor program with Valgrind memory error detector:
 ```bash
 make check
 ```
+### go
+```bash
+cd go-project
+go run main.go
+```
 
 ## Example
 ```bash
-make test
 Input: "TYPE We hate pointers", "MOVE_CURSOR -3", "SELECT 3 6", "TYPE love"
 Output: We love pointers
 Input: "EXIT"
@@ -56,3 +61,8 @@ Leaving text editor...
 Pol Guarch Bosom - guarchp@gmail.com - www.linkedin.com/in/pol-guarch
 
 Project Link: https://github.com/gpol2003/text-editor.git
+
+## Acknowledgments
+- [Go First Steps (video)](https://www.youtube.com/watch?v=AGiayASyp2Q)
+- [Godoc: documenting Go code](https://go.dev/blog/godoc)
+- [Defining GO structs](https://www.digitalocean.com/community/tutorials/defining-structs-in-go-es)
