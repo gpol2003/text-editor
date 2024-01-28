@@ -8,7 +8,7 @@
   - [Acknowledgments](#acknowledgments)
 
 ## Overview 
-This c program simulates a text editor with an integrated clipboard manager which can handle the following operations:
+This c an go program simulates a text editor with an integrated clipboard manager which can handle the following operations:
 - TYPE <text>
 - SELECT <start_index> <end_index>
 - MOVE_CURSOR <offset>
@@ -16,7 +16,7 @@ This c program simulates a text editor with an integrated clipboard manager whic
 - PASTE or PASTE <steps_back>
 - EXIT
 
-The project contains also a custom implementation of a queue.
+The project contains also a custom implementation of a queue in c language.
 
 
 ## Installation
